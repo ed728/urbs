@@ -1,0 +1,44 @@
+The following mechs are written in the order:
+-Brand/Mech Name, Location
+-Colours
+-City of Manufacture.
+-Focus: (+) positive movement bonus
+	(+) positive gun perk
+	(-) negative component for balance
+-Idea Base
+
+-Sastec, African
+-Green/Gold/Brown
+-Johannesburg
+-Focus: (+) Sprint (movement)
+	(+) Larger Clips of ammo (gun)
+-Endurence
+
+-Guntzburg, German/EU
+-Blue/Yellow/White
+-Frankfurt
+-Focus: (+) Burst (movement)
+	(+) Quicker Reloading (gun)
+-Efficiency
+
+-Nimyu, China/Japan
+-Red/Yellow
+-Tokyo
+-Focus: (+) Blink (movement)
+	(+) Missing (gun) [This could be lazer perks]
+-Tech Advantage
+
+-Texstar, USA
+-Blue/White/Red
+-Dallas
+-Focus: (+) Timberchain (movement)
+	(+) Hardhitting (gun)
+-Tanky/Beefy
+
+-Rekova, Russia
+-Red/Gold/Orange
+-Moscow
+-Focus: (+) Missing (movement)
+	(+) No reloads (gun)
+	(-) Lower shooting speed
+-Consistancy
